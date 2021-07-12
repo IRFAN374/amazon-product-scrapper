@@ -1,7 +1,8 @@
 node_modules
 
-// const curl ="http://api.scraperapi.com?api_key=b61129f8d8887218ecef610dfd86ecd3&url=http://httpbin.org/ip"
-//const apiKey = 'b61129f8d8887218ecef610dfd86ecd3';
+// example
+//const apiKey = 'add_your_api_key from scrapper api';
+// const curl =`http://api.scraperapi.com?api_key={apiKey}&url=http://httpbin.org/ip`
 //const generateScrapperURL(api_key) = `http://api.scraperapi.com?api_key=${apiKey}&autoparse=true`;
 
 // const curl ="http://api.scraperapi.com?api_key=b61129f8d8887218ecef610dfd86ecd3&url=http://httpbin.org/ip"
